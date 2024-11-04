@@ -9,7 +9,7 @@ Data Cleaning and Transformation:
 
 ## 2-Handling substantial data preprocessing tasks:
 
- including cleaning, transforming, and organizing raw data to ensure quality and consistency.
+including cleaning, transforming, and organizing raw data to ensure quality and consistency.
 
 
 ## 3-Creating interactive dashboards and visualizations:
