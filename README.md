@@ -7,10 +7,13 @@ Conducting extensive EDA on large operational datasets to identify trends, patte
 Using advanced statistical analysis and data visualization to support strategic planning and improve operational efficiency.
 Data Cleaning and Transformation:
 
-## 2-Handling substantial data preprocessing tasks, including cleaning, transforming, and organizing raw data to ensure quality and consistency.
+## 2-Handling substantial data preprocessing tasks:
+
+ including cleaning, transforming, and organizing raw data to ensure quality and consistency.
 
 
-## 3-Creating interactive dashboards and visualizations that allow stakeholders to explore data insights in real time.
+## 3-Creating interactive dashboards and visualizations:
+ that allow stakeholders to explore data insights in real time.
 Designing data visualizations for metrics that matter, enabling data-driven decisions across multiple departments.
 
 
